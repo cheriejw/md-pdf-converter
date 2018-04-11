@@ -3,6 +3,9 @@ MARKDOWN TO PDF CONVERTER
 
 _Unexpected use of pug... #why [help.](https://codeburst.io/what-is-pug-js-jade-and-how-can-we-use-it-within-a-node-js-web-application-69a092d388eb)_
 
+### Wireframe
+![wireframe](/wireframe.png)
+
 ### How I initiated project:
 ```bash
 npm init
