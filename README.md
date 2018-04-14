@@ -40,3 +40,6 @@ Navigate to [http://localhost:3000](http://localhost:3000).
 4. Then proceed to turn into pdf.
 5. Once step function is complete place the output into an s3 bucket and send client link to download pdf.
 6. Client/app served by express should take response and place in correct link or start download.
+
+### Links
+- [ASCII codes; used HTML](https://www.rapidtables.com/code/text/ascii/ascii-heart.html)
